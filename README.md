@@ -1,8 +1,5 @@
 # Analisi Statistica: Prestiti Regionali e Grado di Istruzione
 
-**Autore:** Umberto Giuseppe Toraldo  
-**Contesto:** Laurea Triennale L-33 Economia e Big Data, Università degli Studi Roma Tre
-
 ## Descrizione del Progetto
 Questo progetto applica un modello di regressione lineare semplice in R per analizzare le differenze interregionali in Italia riguardanti l'ammontare dei prestiti erogati a società non finanziarie e famiglie produttrici. L'obiettivo iniziale era testare l'ipotesi che il grado di istruzione (percentuale di laureati) potesse spiegare la disparità di accesso al credito tra le regioni.
 
